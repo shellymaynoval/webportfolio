@@ -1,0 +1,62 @@
+/*CSS Reset*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto Slab", serif;
+  font-size: 20px;
+}
+
+#navbar {
+	background-color: #bd80ff;
+}
+
+#navname {
+	color: #a34dff;
+	font-weight: bold;
+}
+
+.bg-landing, #contact1 {
+	background-color: #f2e6ff;
+}
+
+#profimg {
+	display: inline-block;
+	border: 3px solid #ead9fc;
+}
+
+#landing {
+	color: #a34dff;
+}
+
+h1 {
+	color: #a34dff;
+	font-size:3rem;
+	font-weight: bold;
+}
+
+.align-items-center, .btn {
+	text-align: center;
+}
+
+.btn-color {
+	background-color: #f2f2f2;
+}
+
+.card-body {
+	background-color: #f2e6ff;
+}
+
+/*Contact Me Icon*/
+.fa:hover {
+  opacity: 1.0;
+}  
+
+
+footer {
+	background-color: #bd80ff;
+}
+
